@@ -1,0 +1,31 @@
+Types of Shells
+There are two major types of shells in Unix. These are:
+
+Bourne Shell
+This is the default shell for version 7 Unix. The character $ is the default prompt for the bourne shell. The different subcategories in this shell are Korn shell, Bourne Again shell, POSIX shell etc.
+
+C Shell
+This is a Unix shell and a command processor that is run in a text window. The character % is the default prompt for the C shell. File commands can also be read easily by the C shell, which is known as a script.
+
+Capabilities of Shell Script
+The different capabilities of the shell script are −
+
+Batch jobs
+Several commands that would be entered manually in a command line interface can be executed automatically using a shell script. This can be done without the user needing to trigger each command separately.
+
+Programming
+There are many features in modern shell scripts that are only found in sophisticated programming languages such as arrays, variables, comments etc. Many complicated applications can be written in shell scripts using these features. But there is a problem i.e. shell script languages don’t support classes, threading etc.
+
+Generalisation
+It is much more flexible to use loops, variables etc for multiple tasks in shell script. An example of this is a Unix shell script known as bash, which converts jpg images to png images.
+
+Shortcuts
+There is a shortcut provided by a shell script for a system command where command options, environment settings or post processing apply. This still allows the shortcut script to act as a Unix command.
+
+Advantages of Shell Script
+Some of the advantages of shell script are −
+
+The commands and syntax of the shell script are the same as that entered at the command line. Because of this, there is no need to switch to a completely different syntax.
+It is much faster to write a code in shell script than in other programming languages. This also means that the program is easier to create and files required can be selected easily.
+Shell script can also be used to provide linkage for already existing programs.
+Shell scripting can be used by users that are not experts to modify and tailor the behaviour of their programs according to their requirements.
